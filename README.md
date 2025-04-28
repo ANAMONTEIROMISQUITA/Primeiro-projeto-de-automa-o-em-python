@@ -10,6 +10,8 @@ Trata-se de uma automação simples, onde um robô lê um arquivo .csv e executa
 
 Embora alguns commits tenham sido feitos fora da ordem no GitHub, finalizei o projeto recentemente e quis compartilhar essa experiência!
 
+
+
 Funcionalidades ✅
 
 Leitura de arquivos .csv
@@ -18,11 +20,14 @@ Execução automática de tarefas baseadas nos dados
 
 Código simples e didático para iniciantes
 
+
 Tecnologias utilizadas 🛠️
 
 Python 3.x
 
 Bibliotecas padrão (csv, etc.)
+
+
 
 Como executar o projeto ⚡
 
@@ -31,6 +36,8 @@ Como executar o projeto ⚡
 
 2- Execute o script 😅
 
+
+
 Melhorias futuras ✨
 
 Adicionar interface gráfica (GUI)
@@ -38,6 +45,8 @@ Adicionar interface gráfica (GUI)
 Melhorar o tratamento de erros
 
 Trabalhar com múltiplos arquivos .csv
+
+
 
 Observação:
 Tenha o Python3 instalado
