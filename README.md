@@ -1,54 +1,43 @@
-🤖 Projeto de Automação em Python
+# 🤖 Projeto de Automação em Python
 
 Sobre o projeto:
 
-Este projeto foi desenvolvido como parte de um trabalho acadêmico.
+Este projeto foi desenvolvido como parte de um trabalho acadêmico, trata-se de uma automação simples, onde um robô lê um arquivo .csv e executa tarefas de forma automática...é uma solução básica, ideal para o primeiro contato com automações em Python 🚀. Embora alguns commits tenham sido feitos fora da ordem no GitHub, finalizei o projeto recentemente e quis compartilhar essa experiência!
 
-Trata-se de uma automação simples, onde um robô lê um arquivo .csv e executa tarefas de forma automática.
+## Funcionalidades ✅
 
-É uma solução básica, ideal para o primeiro contato com automações em Python 🚀.
+- Leitura de arquivos .csv
+- Execução automática de tarefas baseadas nos dados
+- Código simples e didático para iniciantes
 
-Embora alguns commits tenham sido feitos fora da ordem no GitHub, finalizei o projeto recentemente e quis compartilhar essa experiência!
+## Tecnologias utilizadas 🛠️
 
-
-
-Funcionalidades ✅
-
-Leitura de arquivos .csv
-
-Execução automática de tarefas baseadas nos dados
-
-Código simples e didático para iniciantes
+- Python 3.x
+- Bibliotecas padrão (csv, etc.)
 
 
-Tecnologias utilizadas 🛠️
+## Como executar o projeto ⚡
 
-Python 3.x
-
-Bibliotecas padrão (csv, etc.)
-
-
-
-Como executar o projeto ⚡
-
-1- Clone o repositório:
+1. **Clone o repositório:**
   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/ANAMONTEIROMISQUITA/Primeiro-projeto-de-automa-o-em-python.git)
 
-2- Execute o script 😅
+2. **Instale as bicliotecas necessárias:**
+  ```sh
+  pip install pyautogui
+  pip install panda
+  pip install openpyxl
+  ```
 
+3. **Execute o script 😅**
 
+## Melhorias futuras ✨
 
-Melhorias futuras ✨
+- Adicionar interface gráfica (GUI)
+- Melhorar o tratamento de erros
+- Trabalhar com múltiplos arquivos .csv
 
-Adicionar interface gráfica (GUI)
+## Observação:
 
-Melhorar o tratamento de erros
-
-Trabalhar com múltiplos arquivos .csv
-
-
-
-Observação:
 Tenha o Python3 instalado
 
 
