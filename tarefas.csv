@@ -1,0 +1,8 @@
+Tarefa,Tipo,Dado
+Abrir Google,click,navegador_icone
+Pesquisar,texto,GoogleChrome
+Pressionar,tecla,enter
+Esperar,espera,2
+Pesquisar,texto,https://www.terra.com.br/
+Esperar,espera,2
+Pressionar Enter,tecla,enter
