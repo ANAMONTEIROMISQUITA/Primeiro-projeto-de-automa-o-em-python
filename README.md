@@ -19,7 +19,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico, trata-se de 
 ## Como executar o projeto ⚡
 
 1. **Clone o repositório:**
-  git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/ANAMONTEIROMISQUITA/Primeiro-projeto-de-automa-o-em-python.git)
+  git clone https://github.com/ANAMONTEIROMISQUITA/Primeiro-projeto-de-automa-o-em-python.git
 
 2. **Instale as bicliotecas necessárias:**
   ```sh
