@@ -21,7 +21,7 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico, trata-se de 
 1. **Clone o repositório:**
   git clone https://github.com/ANAMONTEIROMISQUITA/Primeiro-projeto-de-automa-o-em-python.git
 
-2. **Instale as bicliotecas necessárias:**
+2. **Instale as bibliotecas necessárias:**
   ```sh
   pip install pyautogui
   pip install panda
